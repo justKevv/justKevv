@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--Bio-->
 My name is `Kevin Bramasta Arvyto Wardhana`. I'm 18 years old and currently live in `Malang, East Java, Indonesia`
