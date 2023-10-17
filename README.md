@@ -24,16 +24,6 @@ Language That I Learn :
 
 </details>
 
-<details>
-  <summary>My Video Project :film_strip: </summary>
-  
-### [Video Project](https://drive.google.com/drive/folders/1MjxzQN6hKVeNqtwGHQWVZzhp8QensHvY?usp=drive_link)
-<img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/aftereffects/aftereffects-original.svg" width = "40px" height = "40px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/premierepro/premierepro-original.svg" width = "40px" height = "40px"> 
-
-### [VFX Project](https://drive.google.com/drive/folders/1brSWUeIP_g8PPbF6RTAG8tuAkUOGf-9z?usp=drive_link)
-<img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/blender/blender-original.svg" width = "40px" height = "40px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-plain.svg" width = "40px" height = "40px">
-  
-</details>
 
 
 
