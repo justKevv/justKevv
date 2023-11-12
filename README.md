@@ -1,54 +1,30 @@
-## Hi there 👋
+Hello! I'm Kevin. Here's a little about me:
 
-<!--Bio-->
-My name is `Kevin Bramasta Arvyto Wardhana`. I'm 18 years old and currently live in `Malang, East Java, Indonesia`
+<body>
+  <h1>I really like films 🎞️</h1>
 
-I'm an Informatics Engineering Student at `Polytechnic Negeri Malang` while freelancing as a `Video Producer`
+<p align = "center">
+   <div class="container">
+    <img src="https://raw.githubusercontent.com/justKevv/justKevv/main/Image/4d1604aeab3958da16d77edb6331cdef.jpg" alt="The Shawshank Redemption" width = "15%">
+    <img src="https://raw.githubusercontent.com/justKevv/justKevv/main/Image/fbceff19d30643d17e52b2eb0d1d08c6.jpg" alt="The Godfather" width = "15%" height = "228">
+    <img src="https://raw.githubusercontent.com/justKevv/justKevv/main/Image/a9b6553f5be2225b75e00a90894f5c92.jpg" alt="The Dark Knight" width = "15%">
+    <img src="https://raw.githubusercontent.com/justKevv/justKevv/main/Image/a9b6553f5be2225b75e00a90894f5c92.jpg" alt="The Lord of the Rings: The Fellowship of the Ring" width = "15%">
+  </div>
+</p>
 
-<img align = "center" src = "https://media.tenor.com/IeUI_IcNToMAAAAM/line-border.gif" width = "800px" height = "4px">
+---
+<h2>
+  Language that I use:
+</h2>
 
-Language That I Learn :
-
-<img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width = "30px" height = "30px"> <img src = "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" width = "30px" height = "30px"> 
-
-
-## Portfolio
-
-<details>
-  <summary>My Journey on College :open_book:</summary>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justKevv&repo=dasar-pemrograman&theme=solarized-light)](https://github.com/justKevv/dasar-pemrograman)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justKevv&repo=Dart-Project&theme=solarized-light)](https://github.com/justKevv/Dart-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justKevv&repo=Sistem-sampah&theme=solarized-light)](https://github.com/justKevv/Sistem-sampah)
+![SkillIcons](https://skillicons.dev/icons?i=dart,flutter,java,git,html,css,js,php)
 
 
-</details>
+<h2>
+  Application that I use:
+</h2>
+
+![SkillIcons](https://skillicons.dev/icons?i=vscode,idea,ae,au,blender,ps,pr)
 
 
-
-
-
-![](https://komarev.com/ghpvc/?username=justKevv&color=lightgrey&style=flat)
-
-![justKevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=justKevv&show_icons=true&theme=solarized-light)
-
-**Contact me** :round_pushpin::
-
-<a href = "https://www.linkedin.com/in/kevin-bramasta/"><img src = "https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" width = "40px" height = "40px"> <a href = "https://www.instagram.com/jst.kevv/"><img src = "https://www.svgrepo.com/show/452229/instagram-1.svg" width = "40px" height = "40px"> <a href = "mailto:kevinbramastaa@gmail.com"><img src ="https://www.svgrepo.com/show/485253/email-opened.svg" width = "35px" height = "35px">
-
-
-
-<!--
-**justKevv/justKevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
