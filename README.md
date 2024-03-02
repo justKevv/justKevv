@@ -17,7 +17,7 @@ Hello! I'm Kevin. Here's a little about me:
   The language that I use:
 </h2>
 
-![SkillIcons](https://skillicons.dev/icons?i=dart,flutter,java,git)
+![SkillIcons](https://skillicons.dev/icons?i=dart,flutter,java,python,git)
 
 
 <h2>
