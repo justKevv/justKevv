@@ -2,4 +2,4 @@
 
 <h3 align="center">Just a regular guy trying to make a living</h3>
 
-                                                 Mainly use: .java • .py • flutter • laravel
+                                                  Mainly use: .java • .py • flutter • laravel
