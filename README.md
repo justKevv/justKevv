@@ -2,28 +2,20 @@
   <img align="center" src="https://raw.githubusercontent.com/justKevv/justKevv/main/hltows.gif" style="width: 100%; height= auto">
 </div>
 
-### Hi! I'm Kevin,
+```ts
+const profile = {
+  name: "Kevin Bramasta",
+  languages: ["TypeScript", "JavaScript", "Python", "C++"],
+  domains: ["Web Dev", "IoT", "ML/AI"],
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express"],
+    database: ["MySQL", "SQL Server", "MongoDB"],
+    machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn"],
+    IoT: ["ESP32", "Raspberry Pi", "Arduino", "MQTT"],
+  },
+  currentlyLearning: "Deepening expertise in IoT & AI"
+};
 
-### Details.
-
-```js
-const data = {
-    language: [".java", ".dart", ".js", ".cpp", ".py"],
-    topics: ["web dev", "machine learning", "mobile dev"],
-
-    learning: {
-        frontend: {
-            react: true,
-        },
-        backend: {
-            node: true,
-            laravel: true,
-        },
-        mobile: {
-            flutter: true,
-        },
-    }
-
-    learn: "Always learning",
-}
+console.log(`👋 Hello, I'm ${profile.name}! Let's build something awesome. 🚀`);
 ```
