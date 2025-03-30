@@ -12,7 +12,7 @@ const profile = {
     backend: ["Node.js", "Express"],
     database: ["MySQL", "SQL Server", "MongoDB"],
     machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    IoT: ["ESP32", "Raspberry Pi", "Arduino", "MQTT"],
+    IoT: ["ESP32", "Arduino", "MQTT"],
   },
   currentlyLearning: "Deepening expertise in IoT & AI"
 };
