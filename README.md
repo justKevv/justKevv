@@ -5,7 +5,7 @@
 ```ts
 const profile = {
   name: "Kevin Bramasta",
-  languages: ["TypeScript", "JavaScript", "Python", "C++", "Go"],
+  languages: ["TypeScript", "JavaScript", "Python", "Go", "C++"],
   domains: ["Web Dev", "IoT", "ML/AI"],
   stack: {
     frontend: ["React", "Next.js", "Tailwind"],
