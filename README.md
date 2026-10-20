@@ -1,21 +1,6 @@
-<div align="center" style="display: flex; justify-content: center;">
-  <img align="center" src="https://raw.githubusercontent.com/justKevv/justKevv/main/hltows.gif" style="width: 100%; height= auto">
+<div align="center">
+    <a href="https://jstkev.in/">
+        <img src="./porto-readme.gif" width="100%" alt="kevv.'s portfolio">
+    </a>
+    <p align="center">me code</p>
 </div>
-
-```ts
-const profile = {
-  name: "Kevin Bramasta",
-  languages: ["TypeScript", "JavaScript", "Python", "Go"],
-  domains: ["Web Dev", "IoT", "ML/AI"],
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    database: ["MySQL", "SQL Server", "MongoDB"],
-    machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    IoT: ["ESP32", "Arduino", "MQTT"],
-  },
-  currentlyLearning: "Deepening expertise in IoT & AI"
-};
-
-console.log(`👋 Hello, I'm ${profile.name}! Let's build something awesome. 🚀`);
-```
